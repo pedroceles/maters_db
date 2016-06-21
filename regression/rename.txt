@@ -1,0 +1,4 @@
+./abalone/data/percent.pickle
+./airfoil/data/percent.pickle
+./bike_sharing/data/percent.pickle
+./california_house/data/percent.pickle
